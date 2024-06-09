@@ -1,0 +1,25 @@
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:pink;">
+
+<h1><center>Estefania Art</h1>
+<p style="background-color:lightgray;"><marquee>¡Sueños plasmados en pintura!</marquee></p>
+<a href="https://www.EsteArt.com/">Visita nuestra Pagina</a>
+<ul>
+  <li>PINTURA PERSONALIZADA</li>
+  <li>PINTURA HECHA EN VIVO EN EVENTOS</li>
+  <li>PINTURA PEQUEÑA</li>
+ <li>PINTURA MEDIANA</li>
+  <li>PINTURA GRANDE</li>
+  <li>COMISIONES DE DIBUJOS</li>
+</ul>
+  <img src="https://i.etsystatic.com/18490091/r/il/0740c9/3568469610/il_570xN.3568469610_kcyy.jpg" alt="W3Schools.com">
+<ul>
+  <li>150$</li>
+  <li>350$</li>
+  <li>100$$</li>
+ <li>140$</li>
+  <li>190$</li>
+  <li>100$</li>
+</ul>
